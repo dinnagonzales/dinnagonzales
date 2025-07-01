@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Hi, I’m Dinna
 
-<!--
-**dinnagonzales/dinnagonzales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌴 Front-End Engineer · AWS Learner 
+📍 Based in Irvine, California  
+🧠 Currently diving deeper into the cloud and AI-powered UIs
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+I’ve spent the last 10 years crafting front-end experiences using React, JavaScript, and modern UI frameworks.  
+The second half of my career was spent building across the stack — exploring serverless, APIs, and AWS.
+
+I’m refreshing my skills and leveling up in cloud engineering, with a focus on building performant, modern web apps that integrate real-world AI.
+
+---
+
+### 🚀 Currently Working On
+
+- 🧾 Studying to earn my **AWS Cloud Practitioner & Developer Associate** certifications
+- 💡 Building AI-powered UIs with React + OpenAI
+- 🛠 Rebuilding my portfolio with Next.js + ShadCN
+- ✍️ Writing about upskilling and rediscovering momentum in tech
+
+---
+
+### 🛠 Tech I Love
+
+`React` · `Next.js` · `Chakra UI` · `AWS` · `OpenAI`
+
+---
+
+### 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/dinnavillacorta/)
+- 🌐 Portfolio(coming soon)
